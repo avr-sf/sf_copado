@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <recordTypes>
+        <description></description>
+        <label></label>
+        <name>HealthCloudGA__Patient</name>
+    </recordTypes>
+    <recordTypes>
+        <label></label>
+        <name>HealthCloudGA__PatientReferral</name>
+    </recordTypes>
+    <webLinks>
+        <label></label>
+        <name>GoogleMaps</name>
+    </webLinks>
+    <webLinks>
+        <label></label>
+        <name>GoogleNews</name>
+    </webLinks>
+    <webLinks>
+        <label></label>
+        <name>GoogleSearch</name>
+    </webLinks>
+    <webLinks>
+        <label></label>
+        <name>HealthCloudGA__Convert_Leads</name>
+    </webLinks>
+</CustomObjectTranslation>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Role xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseAccessLevel>Edit</caseAccessLevel>
+    <contactAccessLevel>Edit</contactAccessLevel>
+    <description>JIBCS Customer Service Representative</description>
+    <mayForecastManagerShare>false</mayForecastManagerShare>
+    <name>JIBCS Customer Service Representative</name>
+    <opportunityAccessLevel>Edit</opportunityAccessLevel>
+    <parentRole>Team_Lead_JIB_Customer_Service</parentRole>
+</Role>

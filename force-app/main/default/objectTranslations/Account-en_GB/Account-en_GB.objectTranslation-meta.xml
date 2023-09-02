@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fieldSets>
+        <label></label>
+        <name>HealthCloudGA__QuickAddIndividual</name>
+    </fieldSets>
+    <layouts>
+        <layout>Account Layout</layout>
+        <sections>
+            <label></label>
+            <section>Account Summary</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>Person Account Layout</layout>
+        <layoutType>PersonAccount</layoutType>
+        <sections>
+            <label></label>
+            <section>Account Summary</section>
+        </sections>
+    </layouts>
+    <quickActions>
+        <label></label>
+        <name>Child_Account</name>
+    </quickActions>
+    <recordTypes>
+        <description></description>
+        <label></label>
+        <name>HealthCloudGA__IndustriesBusiness</name>
+    </recordTypes>
+    <recordTypes>
+        <description></description>
+        <label></label>
+        <name>HealthCloudGA__IndustriesHousehold</name>
+    </recordTypes>
+    <recordTypes>
+        <description></description>
+        <label></label>
+        <name>HealthCloudGA__IndustriesIndividual</name>
+    </recordTypes>
+    <recordTypes>
+        <description></description>
+        <label></label>
+        <name>HealthCloudGA__IndustriesPayer</name>
+    </recordTypes>
+    <validationRules>
+        <errorMessage></errorMessage>
+        <name>HealthCloudGA__NotAllowingConversionFromIndividual</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage></errorMessage>
+        <name>HealthCloudGA__NotAllowingConversionToIndividual</name>
+    </validationRules>
+    <webLinks>
+        <label></label>
+        <name>GoogleMaps</name>
+    </webLinks>
+    <webLinks>
+        <label></label>
+        <name>GoogleNews</name>
+    </webLinks>
+    <webLinks>
+        <label></label>
+        <name>GoogleSearch</name>
+    </webLinks>
+</CustomObjectTranslation>
